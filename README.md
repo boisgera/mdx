@@ -1,9 +1,7 @@
 About MDX
 ================================================================================
 
-MDX is a format for structured text + components.
-
-MDX = MD (Markdown) + JSX.
+MDX is a format for structured text and components: MDX = MD (Markdown) + JSX.
 
 The initial goal of Markdown was to simplify the authoring of "classic" HTML
 pages, primarily made of text. Raw HTML could be added to a markdown document
