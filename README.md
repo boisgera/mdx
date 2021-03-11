@@ -1,0 +1,2 @@
+# mdx
+About MDX
